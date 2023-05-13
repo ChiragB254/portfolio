@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24a7442d.css",
+    "main.js": "/static/js/main.0b9d0873.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/plantify.png": "/static/media/plantify.9d3331ee654fabfcd419.png",
+    "static/media/svasth.png": "/static/media/svasth.9be23b17e2f4bd7a021a.png",
+    "static/media/theputon.png": "/static/media/theputon.5399308650e059220d66.png",
+    "static/media/facedetection.png": "/static/media/facedetection.a3e764656c52a5286d8a.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.ebf63d7216096093df81.jpg",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/about.png": "/static/media/about.80b1c53a3b2621921f07.png",
+    "static/media/Chirag_Bansal_Resume.pdf": "/static/media/Chirag_Bansal_Resume.070852b1318b2203dc13.pdf",
+    "static/media/verification.png": "/static/media/verification.50c469eb0701248a6159.png",
+    "static/media/Code typing-amico.svg": "/static/media/Code typing-amico.ff8dd25d3c435c0b20cb9881420fc66c.svg",
+    "static/media/ca.png": "/static/media/ca.303dae1b47e5fc6e277c.png",
+    "static/media/hsvp.png": "/static/media/hsvp.b26fa7f0afb351e9a0f3.png",
+    "static/media/logobc.png": "/static/media/logobc.5bcb33f9b2f1b56014df.png",
+    "static/media/google.png": "/static/media/google.219c7ea0f711c87e43e5.png",
+    "static/media/NIC.png": "/static/media/NIC.2874f0e3b0b5fea906ca.png",
+    "static/media/avatar.svg": "/static/media/avatar.4db06c5624228b0a4e93434023a220b2.svg",
+    "static/media/pre.svg": "/static/media/pre.ed6e6749c76a963bd5fb.svg",
+    "index.html": "/index.html",
+    "main.24a7442d.css.map": "/static/css/main.24a7442d.css.map",
+    "main.0b9d0873.js.map": "/static/js/main.0b9d0873.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a7442d.css",
+    "static/js/main.0b9d0873.js"
+  ]
+}
